@@ -1,0 +1,86 @@
+/* 
+  Language.strings
+  LNote
+
+*/
+
+"SNote" = "速記";
+
+"LNote"="ラブレコード";
+
+"Memo"="メモ";
+
+"Me"="私の";
+
+"Language"="言語を切り替える";
+
+"Reset Gesture Password"="ジェスチャーパスワードをリセット";
+
+"Setting"="設定";
+
+"help"="ヘルプ";
+
+"User notice"="ユーザー通知";
+
+"About LoveNote"="愛について";
+
+"NewSNote"="新しい短いメモ";
+
+"cancel"="キャンセル";
+
+"edit"="編集する";
+
+"sure"="決定する";
+
+"content"="内容を入力してください";
+
+"delete"="削除する";
+
+"save"="保存する";
+
+"LNote title"="ラブレコードのタイトル";
+
+"weather"="お天気";
+
+"mood"="気分";
+
+"The title can not be blank"="タイトルは空白にできません";
+
+"Memo title"="メモのタイトル";
+
+"Memo type"="メモ型";
+
+"Please click to enter the signature"="クリックして署名を入力してください";
+
+"Choose how to change your avatar"="アバターを変更する方法を選択してください";
+
+"Take a photo"="写真を撮る";
+
+"Choose from album"="アルバムから選ぶ";
+
+"Select default avatar"="デフォルトのアバターを選択";
+
+"Please enter your love"="あなたの愛を入力してください";
+
+"CNS"="簡体字中国語";
+
+"EN"="英語";
+
+"ChangeLanguage"="言語を変更する";
+
+"cancel sending"="送信をキャンセルしました";
+
+"send success"="正常に送信されました";
+
+"send fail"="送信失敗";
+
+"About"="について";
+
+"Help"="ヘルプ";
+
+"If you have any questions or suggestions during the use, welcome feedback"="使用中に質問や提案があれば、歓迎のフィードバック";
+
+
+"Sincerely thank you for using the LNote"="真誠的感作¤使い方爱记";
+
+"Click Change HeadImg"="クリックしてアバターを切り替える";

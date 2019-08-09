@@ -1,0 +1,85 @@
+/* 
+  Language.strings
+  LNote
+
+*/
+"SNote" = "简记";
+
+"LNote"="爱记";
+
+"Memo"="备忘";
+
+"Me"="我";
+
+"Language"="切换语言";
+
+"Reset Gesture Password"="重置手势密码";
+
+"Setting"="设置";
+
+"help"="帮助";
+
+"User notice"="用户须知";
+
+"About LoveNote"="关于爱记";
+
+"NewSNote"="新简记";
+
+"cancel"="取消";
+
+"edit"="编辑";
+
+"sure"="确定";
+
+"content"="请输入内容";
+
+"delete"="删除";
+
+"save"="保存";
+
+"LNote title"="爱记标题";
+
+"weather"="现在的天气";
+
+"mood"="我的心情";
+
+"The title can not be blank"="标题不能空啊";
+
+"Memo title"="备忘标题";
+
+"Memo type"="备忘类型";
+
+"Please click to enter the signature"="请点击输入签名";
+
+"Choose how to change your avatar"="选择更换您头像的方式";
+
+"Take a photo"="拍照";
+
+"Choose from album"="从相册选择";
+
+"Select default avatar"="从相册选择";
+
+"Please enter your love"="请输入密语";
+
+"CNS"="简体中文";
+
+"EN"="英语";
+
+"ChangeLanguage"="更换语言";
+
+"cancel sending"="已取消发送";
+
+"send success"="发送成功";
+
+"send fail"="发送失败";
+
+"About"="关于";
+
+"Help"="帮助";
+
+"If you have any questions or suggestions during the use, welcome feedback"="如果您在使用过程中，有任何疑问或者建议，欢迎反馈";
+
+
+"Sincerely thank you for using the LNote"="真诚的感谢您使用爱记";
+
+"Click Change HeadImg"="点击更换头像";
