@@ -874,9 +874,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Sonia Roxanne (CH6S4YZ959)";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = SL9VG9Z87W;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				GCC_PREFIX_HEADER = LNote/PrefixHeader.pch;
 				INFOPLIST_FILE = LNote/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -885,7 +885,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.dr.LNote;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = development;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -895,9 +895,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Sonia Roxanne (SL9VG9Z87W)";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = SL9VG9Z87W;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				GCC_PREFIX_HEADER = LNote/PrefixHeader.pch;
 				INFOPLIST_FILE = LNote/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -906,7 +906,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.dr.LNote;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = release;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
